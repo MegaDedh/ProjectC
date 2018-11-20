@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ProjectC.iml" filepath="$PROJECT_DIR$/ProjectC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapk3/myapk3.iml" filepath="$PROJECT_DIR$/myapk3/myapk3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0341_simplesqlite/p0341_simplesqlite.iml" filepath="$PROJECT_DIR$/p0341_simplesqlite/p0341_simplesqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0361/p0361.iml" filepath="$PROJECT_DIR$/p0361/p0361.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0371_sqliteinnerjoin/p0371_sqliteinnerjoin.iml" filepath="$PROJECT_DIR$/p0371_sqliteinnerjoin/p0371_sqliteinnerjoin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0381_sqlitetransaction/p0381_sqlitetransaction.iml" filepath="$PROJECT_DIR$/p0381_sqlitetransaction/p0381_sqlitetransaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0391_sqliteonupgradedb/p0391_sqliteonupgradedb.iml" filepath="$PROJECT_DIR$/p0391_sqliteonupgradedb/p0391_sqliteonupgradedb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0401_layoutinflater/p0401_layoutinflater.iml" filepath="$PROJECT_DIR$/p0401_layoutinflater/p0401_layoutinflater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0411_layoutinflaterlist/p0411_layoutinflaterlist.iml" filepath="$PROJECT_DIR$/p0411_layoutinflaterlist/p0411_layoutinflaterlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0421_simplelist/p0421_simplelist.iml" filepath="$PROJECT_DIR$/p0421_simplelist/p0421_simplelist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0431_simplelistchoice/p0431_simplelistchoice.iml" filepath="$PROJECT_DIR$/p0431_simplelistchoice/p0431_simplelistchoice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0441_simplelistevents/p0441_simplelistevents.iml" filepath="$PROJECT_DIR$/p0441_simplelistevents/p0441_simplelistevents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0451_expandablelist/p0451_expandablelist.iml" filepath="$PROJECT_DIR$/p0451_expandablelist/p0451_expandablelist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0461_expandablelistevents/p0461_expandablelistevents.iml" filepath="$PROJECT_DIR$/p0461_expandablelistevents/p0461_expandablelistevents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0481_simpleadapter/p0481_simpleadapter.iml" filepath="$PROJECT_DIR$/p0481_simpleadapter/p0481_simpleadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0491_simpleadaptercustom1/p0491_simpleadaptercustom1.iml" filepath="$PROJECT_DIR$/p0491_simpleadaptercustom1/p0491_simpleadaptercustom1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0501_simpleadaptercustom2/p0501_simpleadaptercustom2.iml" filepath="$PROJECT_DIR$/p0501_simpleadaptercustom2/p0501_simpleadaptercustom2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0511_simpleadapterdata/p0511_simpleadapterdata.iml" filepath="$PROJECT_DIR$/p0511_simpleadapterdata/p0511_simpleadapterdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0521_simplecursoradapter/p0521_simplecursoradapter.iml" filepath="$PROJECT_DIR$/p0521_simplecursoradapter/p0521_simplecursoradapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0531_simplecursortreeadapter/p0531_simplecursortreeadapter.iml" filepath="$PROJECT_DIR$/p0531_simplecursortreeadapter/p0531_simplecursortreeadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0541_customadapter/p0541_customadapter.iml" filepath="$PROJECT_DIR$/p0541_customadapter/p0541_customadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0551_headerfooter/p0551_headerfooter.iml" filepath="$PROJECT_DIR$/p0551_headerfooter/p0551_headerfooter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0561_spinner/p0561_spinner.iml" filepath="$PROJECT_DIR$/p0561_spinner/p0561_spinner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0571_gridview/p0571_gridview.iml" filepath="$PROJECT_DIR$/p0571_gridview/p0571_gridview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0581_timepickerdialog/p0581_timepickerdialog.iml" filepath="$PROJECT_DIR$/p0581_timepickerdialog/p0581_timepickerdialog.iml" />
+    </modules>
+  </component>
+</project>

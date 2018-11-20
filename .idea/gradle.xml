@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/myapk3" />
+            <option value="$PROJECT_DIR$/p0341_simplesqlite" />
+            <option value="$PROJECT_DIR$/p0361" />
+            <option value="$PROJECT_DIR$/p0371_sqliteinnerjoin" />
+            <option value="$PROJECT_DIR$/p0381_sqlitetransaction" />
+            <option value="$PROJECT_DIR$/p0391_sqliteonupgradedb" />
+            <option value="$PROJECT_DIR$/p0401_layoutinflater" />
+            <option value="$PROJECT_DIR$/p0411_layoutinflaterlist" />
+            <option value="$PROJECT_DIR$/p0421_simplelist" />
+            <option value="$PROJECT_DIR$/p0431_simplelistchoice" />
+            <option value="$PROJECT_DIR$/p0441_simplelistevents" />
+            <option value="$PROJECT_DIR$/p0451_expandablelist" />
+            <option value="$PROJECT_DIR$/p0461_expandablelistevents" />
+            <option value="$PROJECT_DIR$/p0481_simpleadapter" />
+            <option value="$PROJECT_DIR$/p0491_simpleadaptercustom1" />
+            <option value="$PROJECT_DIR$/p0501_simpleadaptercustom2" />
+            <option value="$PROJECT_DIR$/p0511_simpleadapterdata" />
+            <option value="$PROJECT_DIR$/p0521_simplecursoradapter" />
+            <option value="$PROJECT_DIR$/p0531_simplecursortreeadapter" />
+            <option value="$PROJECT_DIR$/p0541_customadapter" />
+            <option value="$PROJECT_DIR$/p0551_headerfooter" />
+            <option value="$PROJECT_DIR$/p0561_spinner" />
+            <option value="$PROJECT_DIR$/p0571_gridview" />
+            <option value="$PROJECT_DIR$/p0581_timepickerdialog" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
